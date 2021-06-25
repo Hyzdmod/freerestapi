@@ -29,7 +29,7 @@
  ++++++++++++++++++++
  - Youtube Downloader
  - Instagram Downloader
- - Tiktok Downloader
+ - Tiktok Downloader (NO WM)
  - NSFW Downloader
  - Info Cuaca
  - Nulis
