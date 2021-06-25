@@ -49,7 +49,7 @@ Real Branch / Repo : https://github.com/AthallahDzaki/l
 How To Run On Localhost
 - git clone https://github.com/AthallahDzaki/freerestapi
 - cd freerestapi
-- change .env SEE [here](https://github.com/AthallahDzaki/freerestapi/blob/king/.env#L10)
+- change .env SEE [![here](https://github.com/AthallahDzaki/freerestapi/blob/king/.env#L10)
 - npm i
 - npm start
 ```
