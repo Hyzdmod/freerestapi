@@ -41,7 +41,7 @@ const {
 } = require('./../lib')
 
 function IncreaseCount(){
-	count.hit('freerestapi.herokuapp.com', 'apiusage').then((result) => { 
+	count.hit('frmfreerestapi.herokuapp.com', 'apiusage').then((result) => { 
 		console.log(result);
 	});
 }
